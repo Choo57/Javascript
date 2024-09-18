@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Smiley Face Slider</title>
+      <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div style="margin-bottom:20px; font-size:1.4rem; min-height:30px">
+      Rate the service you received
+    </div>
+    <div class="face" id="face">
+      <div class="eyes" id="eyes">
+        <div class="eye left" id="eyeLeft"></div>
+        <div class="eye right" id="eyeRight"></div>
+      </div>
+      <div class="mouth" id="mouth"></div>
+    </div>
+    <div class="slider-container">
+      <input type="range" step="0.01" min="0" max="10" value="5" id="slider" class="slider">
+      <div id="slider-value" style="text-align: center;">50%</div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
