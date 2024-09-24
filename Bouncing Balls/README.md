@@ -14,9 +14,7 @@ Next steps:
 https://jsfiddle.net/choo5/j2gz7cdn/1/
 
 ## Demo Recording
-
-
-
+https://github.com/user-attachments/assets/3ab74b0b-5ed3-47d8-8bd8-9bdbb97aadc0
 
 ## Project Setup
 HTML, JS and CSS files are in the root. Simply double click on index.html to test locally.
