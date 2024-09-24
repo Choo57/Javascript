@@ -1,4 +1,4 @@
-# VueJS Login Form With Flashlight Animation
+# Smiley Feedback Slider
 
 A very simple slider with an animated emoji to collect user feedback.
 
